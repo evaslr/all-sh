@@ -1,5 +1,5 @@
-# all-sh
-## 秋水四合一 2020-09-01
+# all-sh 2020-09-01
+## 秋水四合一 
 wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh
 
 chmod +x shadowsocks-all.sh
