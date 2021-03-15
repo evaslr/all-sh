@@ -186,3 +186,20 @@ wget https://raw.githubusercontent.com/evaslr/all-sh/master/unlock.sh && chmod +
 
 									
 3.修改完成重启科学服务端
+
+## vps安装系统（甲骨文dd Debian系统）
+DD系统
+萌咖大佬已经成功测试DD脚本！这样我们比较方便的使用debian系统了！
+
+原系统请选择 ubuntu16 （18系统兼容有一些问题！）
+
+安装debian9脚本 (-firmware 额外驱动支持)
+
+1
+bash <(wget --no-check-certificate -qO- 'https://moeclub.org/attachment/LinuxShell/InstallNET.sh') -d 9 -v 64 -p 'RUYO' -a -firmware
+
+DD成功后，请使用root登录！
+
+账号: root
+
+密码:RUYO
