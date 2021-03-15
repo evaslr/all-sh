@@ -195,7 +195,6 @@ DD系统
 
 安装debian9脚本 (-firmware 额外驱动支持)
 
-1
 bash <(wget --no-check-certificate -qO- 'https://moeclub.org/attachment/LinuxShell/InstallNET.sh') -d 9 -v 64 -p 'RUYO' -a -firmware
 
 DD成功后，请使用root登录！
