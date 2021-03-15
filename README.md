@@ -39,6 +39,7 @@ Shadowsocks-libev 版：
 ## bbr加速
 不卸载内核版本
 wget -N "https://github.000060000.xyz/tcpx.sh" && chmod +x tcpx.sh && ./tcpx.sh
+
 卸载内核版本
 wget -N "https://github.000060000.xyz/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
 
