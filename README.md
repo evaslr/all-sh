@@ -199,3 +199,8 @@ DD成功后，请使用root登录！
 账号: root
 
 密码:RUYO
+
+ubuntu18 
+apt-get update && apt-get install -y xz-utils openssl gawk file; \
+bash <(wget --no-check-certificate -qO- 'https://moeclub.org/attachment/LinuxShell/InstallNET.sh') -d 9 -v 64 -a -firmware
+
