@@ -207,4 +207,4 @@ bash <(wget --no-check-certificate -qO- 'https://moeclub.org/attachment/LinuxShe
 
 ## 一键自动申请SSL证书，Cloudflare API 验证版！需要域名托管CF！
 
-bash <(curl -Ls https://raw.githubusercontent.com/evaslr/all-sh/refs/heads/master/acme.sh)
+bash <(curl -Ls  https://raw.githubusercontent.com/evaslr/all-sh/refs/heads/master/acme.sh)
