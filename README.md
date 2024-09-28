@@ -205,3 +205,6 @@ apt-get update && apt-get install -y xz-utils openssl gawk file; \
 bash <(wget --no-check-certificate -qO- 'https://moeclub.org/attachment/LinuxShell/InstallNET.sh') -d 9 -v 64 -a -firmware
 密码 MoeClub.org
 
+## 一键自动申请SSL证书，Cloudflare API 验证版！需要域名托管CF！
+
+bash <(curl -Ls  https://v2rayssr.com/tool/acme.sh)
