@@ -50,7 +50,9 @@ net.ipv4.tcp_available_congestion_control = bbr cubic reno
 
 # 4、查看BBR是否启动
 lsmod | grep bbr
+
 显示以下即启动成功：
+
 tcp_bbr                20480  14
 
 
