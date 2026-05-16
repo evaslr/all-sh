@@ -54,8 +54,7 @@ lsmod | grep bbr
 
 tcp_bbr                20480  14
 
-
-######
+## ----------------------- ##
 不卸载内核版本
 wget -N "https://github.000060000.xyz/tcpx.sh" && chmod +x tcpx.sh && ./tcpx.sh
 
