@@ -45,7 +45,6 @@ sysctl -p
 sysctl net.ipv4.tcp_available_congestion_control
 
 显示以下即已开启：
-sysctl net.ipv4.tcp_available_congestion_control
 net.ipv4.tcp_available_congestion_control = bbr cubic reno
 
 # 4、查看BBR是否启动
